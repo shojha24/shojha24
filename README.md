@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shojha24
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me Python
+- 👀 I’m interested in learning Python for use in Data analysis and Machine Learning
+- 🌱 I’m currently learning Python, Java, Node.JS, etc.
+- 📫 Contact me at sharabho@gmail.com for collaborations
 
 <!---
 shojha24/shojha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
