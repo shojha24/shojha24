@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shojha24
+- 👋 Hi, I’m Sharabh Ojha
 - 👀 I’m interested in learning Python for use in Data analysis and Machine Learning
 - 🌱 I’m currently learning Python, Java, Node.JS, etc.
 - 📫 Contact me at sharabho@gmail.com for collaborations
