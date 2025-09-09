@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Sharabh Ojha
-- 👀 I’m interested in learning Python for use in Data analysis and Machine Learning, and building beautiful applications in SwiftUI.
-- 🌱 I’m currently learning Python, Java, Node.JS, etc.
-- 📫 Contact me at sharabho@gmail.com for collaborations
+# 👋 Hi, I’m **Sharabh Ojha**
 
-<!---
-shojha24/shojha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 About Me
+
+* 🎓 **CS + Engineering @ UCLA**
+* 👀 Passionate about **data analysis**, **machine learning**, and building **beautiful, intuitive applications** in **SwiftUI** and **React**.
+* 🌱 Currently exploring **Python**, **Java**, **Node.js**, and scalable backend systems.
+* 🎵 Fun fact: I love working on music + tech projects, like building chord recognition models and audio analysis tools.
+
+---
+
+### 🚀 Project Experience
+
+* Building **ML pipelines** for vector search and data-driven applications.
+* Designing and training **state-of-the-art ACR** (automatic chord recognition) models.
+* Creating **Next.js + React projects** that connect clean design with robust functionality.
+* Exploring **serverless APIs** and cloud platforms like **AWS** and **Google Cloud**.
+
+---
+
+### 📫 Let’s Connect
+
+* Email: **[sharabho@gmail.com](mailto:sharabho@gmail.com)**
+* LinkedIn: [linkedin.com/in/sharabhojha](https://linkedin.com/in/sharabhojha)
+* Devpost: [devpost.com/sharabho](https://devpost.com/sharabho)
