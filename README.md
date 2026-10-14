@@ -3,8 +3,7 @@
 ### 💻 About Me
 
 * 🎓 **CS + Engineering @ UCLA**
-* 👀 Passionate about **data analysis**, **machine learning**, **IoT**, and building **beautiful, intuitive applications** in **React**.
-* 🌱 Currently exploring **Python**, **Java**, **Node.js**, and scalable backend systems.
+* 👀 Passionate about **software systems (especially for machine learning)**, **audio signal processing**, **IoT**, and building **beautiful, intuitive applications**.
 * 🎵 Fun fact: I love working on music + tech projects, like building chord recognition models and audio analysis tools.
 
 ---
